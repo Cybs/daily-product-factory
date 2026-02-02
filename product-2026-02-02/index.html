@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>记忆挑战 - Daily Product</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>记忆挑战</h1>
+            <p class="tagline">经典的卡片记忆游戏，锻炼大脑</p>
+            <span class="badge">2026-02-02 出品</span>
+        </header>
+        
+        <main id="app">
+            
+            <div class="card game-card">
+                <div class="game-stats">
+                    <span>时间: <strong id="time">0</strong>s</span>
+                    <span>步数: <strong id="moves">0</strong></span>
+                    <span>最佳: <strong id="best">-</strong></span>
+                </div>
+                <div class="game-grid" id="grid"></div>
+                <div class="game-controls">
+                    <button class="btn-primary" onclick="startGame()">开始游戏</button>
+                    <select id="difficulty" onchange="startGame()">
+                        <option value="4">简单 (4x4)</option>
+                        <option value="6">中等 (6x6)</option>
+                    </select>
+                </div>
+            </div>
+        </main>
+        
+        <footer>
+            <p>🤖 由 AI 自动生成 | <a href="/">查看更多产品</a></p>
+        </footer>
+    </div>
+    
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,20 @@
+{
+  "id": "product-2026-02-02",
+  "date": "2026-02-02",
+  "name": "记忆挑战",
+  "description": "经典的卡片记忆游戏，锻炼大脑",
+  "type": "game",
+  "template": "memory-game",
+  "problem": "Show HN: Moltbook – A social network for moltbots (clawdbots) to hang out",
+  "features": [
+    "多种难度",
+    "计时挑战",
+    "最佳记录",
+    "精美卡片"
+  ],
+  "sourcePain": {
+    "title": "Show HN: Moltbook – A social network for moltbots (clawdbots) to hang out",
+    "source": "hackernews",
+    "url": "https://www.moltbook.com/"
+  }
+}
