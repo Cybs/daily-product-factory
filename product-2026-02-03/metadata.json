@@ -1,10 +1,10 @@
 {
-  "id": "product-2026-02-02",
-  "date": "2026-02-02",
+  "id": "product-2026-02-03",
+  "date": "2026-02-03",
   "name": "QuickFix - 即时问题解决方案",
   "description": "快速解决日常小问题的实用工具集合",
   "targetUser": "tech_enthusiast",
-  "coreProblem": "标题: Show HN: I trained a 9M speech model to fix my Mandarin tones",
+  "coreProblem": "标题: Show HN: Safe-now",
   "keyFeatures": [
     "问题诊断",
     "一键修复",
@@ -19,13 +19,13 @@
   ],
   "estimatedComplexity": "medium",
   "sourcePain": {
-    "title": "Show HN: I trained a 9M speech model to fix my Mandarin tones",
+    "title": "Show HN: Safe-now.live – Ultra-light emergency info site (<10KB)",
     "source": "hackernews",
-    "url": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/"
+    "url": "https://safe-now.live"
   },
   "generationInfo": {
     "version": "2.0",
-    "timestamp": "2026-02-02T12:48:56.960Z",
+    "timestamp": "2026-02-03T16:11:06.476Z",
     "iteration": 3
   }
 }
