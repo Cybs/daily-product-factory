@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 // 初始化功能卡片
-defaults initFeatureCards() {
+function initFeatureCards() {
     const cards = document.querySelectorAll('.feature-card');
     cards.forEach(card => {
         card.addEventListener('click', () => {
