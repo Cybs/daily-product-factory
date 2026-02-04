@@ -1,0 +1,78 @@
+{
+  "date": "2026/2/4",
+  "product": {
+    "name": "AppCraft - 轻量应用构建器",
+    "description": "无需编码即可创建简单网页应用的向导工具",
+    "targetUser": "developer",
+    "coreProblem": "标题: Show HN: Craftplan – I built my wife a production management tool for her bakery",
+    "keyFeatures": [
+      "可视化编辑",
+      "模板库",
+      "一键部署",
+      "数据收集"
+    ],
+    "suggestedTech": [
+      "HTML5",
+      "CSS3",
+      "Vanilla JavaScript",
+      "localStorage"
+    ],
+    "estimatedComplexity": "medium",
+    "iteration": 3
+  },
+  "demand": {
+    "source": {
+      "title": "Show HN: Craftplan – I built my wife a production management tool for her bakery",
+      "source": "hackernews",
+      "url": "https://github.com/puemos/craftplan"
+    },
+    "analysis": {
+      "problemDescription": "标题: Show HN: Craftplan – I built my wife a production management tool for her bakery\n内容: My wife was planning to open a micro-bakery",
+      "targetUser": "developer",
+      "existingSolutions": [
+        "github"
+      ],
+      "solutionGaps": [],
+      "intensity": 4,
+      "topics": [
+        "app",
+        "tool",
+        "work",
+        "mobile",
+        "ai"
+      ]
+    },
+    "painPointsAnalyzed": 18,
+    "painPointsIdentified": 5
+  },
+  "technical": {
+    "techStack": [
+      "HTML5",
+      "CSS3",
+      "Vanilla JavaScript",
+      "localStorage"
+    ],
+    "storage": "localStorage (浏览器本地存储)",
+    "deployment": "Express 静态文件服务器",
+    "responsive": true,
+    "offlineCapable": true
+  },
+  "files": [
+    "index.html",
+    "style.css",
+    "app.js"
+  ],
+  "nextSteps": [
+    "收集用户反馈以验证产品假设",
+    "根据使用数据优化核心功能",
+    "考虑添加后端支持以扩展功能",
+    "探索目标用户群体的增长策略"
+  ],
+  "validation": {
+    "relevanceScore": 10,
+    "problemCoverage": 12,
+    "userFit": 11,
+    "iterations": 3,
+    "success": false
+  }
+}
