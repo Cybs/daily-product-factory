@@ -1,0 +1,31 @@
+{
+  "id": "product-2026-02-05",
+  "date": "2026-02-05",
+  "name": "AppCraft - 轻量应用构建器",
+  "description": "无需编码即可创建简单网页应用的向导工具",
+  "targetUser": "developer",
+  "coreProblem": "标题: Show HN: Craftplan – I built my wife a production management tool for her bakery",
+  "keyFeatures": [
+    "可视化编辑",
+    "模板库",
+    "一键部署",
+    "数据收集"
+  ],
+  "suggestedTech": [
+    "HTML5",
+    "CSS3",
+    "Vanilla JavaScript",
+    "localStorage"
+  ],
+  "estimatedComplexity": "medium",
+  "sourcePain": {
+    "title": "Show HN: Craftplan – I built my wife a production management tool for her bakery",
+    "source": "hackernews",
+    "url": "https://github.com/puemos/craftplan"
+  },
+  "generationInfo": {
+    "version": "2.0",
+    "timestamp": "2026-02-05T15:00:11.141Z",
+    "iteration": 3
+  }
+}
